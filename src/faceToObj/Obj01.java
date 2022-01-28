@@ -13,5 +13,5 @@ package faceToObj;
 类：对一类事物的描述，是抽象的、概念上的定义
 对象：是实际存在的该类事物的每个个体，也叫实例
  */
-public class obj01 {
+public class Obj01 {
 }

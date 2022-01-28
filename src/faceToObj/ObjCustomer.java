@@ -9,6 +9,8 @@ package faceToObj;
  */
 /*
 类应该具有的功能
+
+权限修饰符：protected public private 缺省
  */
 public class ObjCustomer {
 }
