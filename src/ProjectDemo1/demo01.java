@@ -1,8 +1,8 @@
-package ProjectDemo;
+package ProjectDemo1;
 
 import java.util.Scanner;
 
-import static ProjectDemo.Utility.*;
+import static ProjectDemo1.Utility.*;
 
 /**
  * @Description TODO
