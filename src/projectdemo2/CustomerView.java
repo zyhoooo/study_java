@@ -12,8 +12,8 @@ import static projectdemo2.CMUtility.readMenuSelection;
  */
 public class CustomerView {
     public static void main(String[] args) {
-        CustomerList customerList=new CustomerList();
-        boolean isFlag=true;
+        CustomerList customerList = new CustomerList();
+        boolean isFlag = true;
         while (isFlag) {
             System.out.println("--------------客户信息管理软件--------------");
             System.out.println();
@@ -39,8 +39,8 @@ public class CustomerView {
                     break;
                 case '5':
                     System.out.println("确认退出(Y/N):");
-                    if(readConfirmSelection()=='Y')
-                        isFlag=false;
+                    if (readConfirmSelection() == 'Y')
+                        isFlag = false;
                     break;
             }
         }
